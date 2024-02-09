@@ -1,0 +1,18 @@
+{
+    "_id": 1,
+    "partido": "Frente de Izquierda y los trabajadores",
+    "lista": 842,
+    "gobernador": "Raúl Godoy",
+    "diputado": "Patricia Jure",
+    "imagen": "../images/1ra.GIF",
+    "votos": 1
+}
+{
+    "_id": 2,
+    "partido": "Frente Social por la dignidad",
+    "lista": 653,
+    "gobernador": "Sergio Rodriguez",
+    "diputado": "Fabricio Torrealday",
+    "imagen": "../images/2do.GIF",
+    "votos": 2
+}

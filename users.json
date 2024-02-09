@@ -1,0 +1,30 @@
+{
+    "dni": 12345678,
+    "nombre": "Mariano Moreno",
+    "genero": "M",
+    "estado" : false
+}
+{
+    "dni": 87654321,
+    "nombre": "Alejandra Moreno",
+    "genero": "F",
+    "estado" : false
+}
+{
+    "dni": 37123456,
+    "nombre": "Carolina Diaz",
+    "genero": "F",
+    "estado" : true
+}
+{
+    "dni": 40000000,
+    "nombre": "Verónica Gala",
+    "genero": "F",
+    "estado" : true
+}
+{
+    "dni": 32739852,
+    "nombre": "Eduardo Soria",
+    "genero": "M",
+    "estado" : true
+}
