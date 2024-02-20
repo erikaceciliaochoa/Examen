@@ -1,13 +1,14 @@
 ﻿/*********************************/
 /Examen Diplomatura Web 2020 - UTN/
 / Fecha de entrega: 29/09/2020   /
-/ Ochoa, Erika Carolina         /
+/ Ochoa, Erika Cecilia         /
 /********************************
 
 Software utilizado:
 - Visual Code v1.49.4
 - MongoDB v4.4
 - Robo 3T v1.3.1
+- Angular
 
 Versiones consultadas en clases:
 >node --version
